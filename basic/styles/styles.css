@@ -1,0 +1,20 @@
+header {
+    border: 1px solid black;
+    padding: .25em 0;
+}
+
+nav {
+    border: 1px solid black;
+    float: left;
+    padding-right: 1.5em;
+    width: 20%;
+}
+
+main {
+    border: 1px solid black;
+    padding-right: 1.5em;
+}
+
+footer {
+    border: 1px solid black;
+}
